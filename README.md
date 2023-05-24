@@ -1,3 +1,4 @@
+<img align="center" width="100%" src="https://github.com/Avijit-Kr9/Avijit-Kr9/blob/main/Banner2.jpg?raw=true" alt="Banner"/>
 <h1 align="center">Hi 👋, I'm Avijit</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
